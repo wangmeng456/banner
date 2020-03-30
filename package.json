@@ -1,0 +1,20 @@
+{
+  "name": "banner",
+  "version": "1.0.0",
+  "description": "使用组件化开发过程实现轮播图组件",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangmeng456/banner.git"
+  },
+  "keywords": [],
+  "author": "wangmeng456",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangmeng456/banner/issues"
+  },
+  "homepage": "https://github.com/wangmeng456/banner#readme"
+}
